@@ -1,0 +1,18 @@
+{
+  "defaultEntryPoint" : "index.html",
+  "namespace"         : "PandaBlackDev",
+  "menuEntries"       : [
+    {
+      "label": "Authentication",
+      "menu": "system/markets/PandaBlackDev",
+      "urlKey": "itools",
+      "entryPoint": "index.html?action=itools"
+    },
+    {
+      "label": "Category-linking",
+      "menu": "system/markets/PandaBlackDev",
+      "urlKey": "stats-view",
+      "entryPoint": "index.html?action=stats-view"
+    }
+  ]
+}
